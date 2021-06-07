@@ -1,4 +1,4 @@
-SRC_NAME = htop-3.0.2
+SRC_NAME = htop-3.0.5
 SRC_URL = https://codeload.github.com/htop-dev/htop/tar.gz/refs/tags/3.0.5
 THISDIR = $(shell pwd)
 
